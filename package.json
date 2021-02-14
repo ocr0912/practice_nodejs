@@ -1,0 +1,22 @@
+{
+  "name": "practice_nodejs",
+  "version": "1.0.0",
+  "description": "practice nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocr0912/practice_nodejs.git"
+  },
+  "author": "chanran oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocr0912/practice_nodejs/issues"
+  },
+  "homepage": "https://github.com/ocr0912/practice_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
